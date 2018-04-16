@@ -21,5 +21,7 @@
 2. Build
 
 mvn clean package
+
 mvn exec:java -Dexec.mainClass=speedcam.Demo 
+
 3. Stopping demo by pressing Ctrl-C
